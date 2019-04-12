@@ -1,0 +1,5 @@
+/home/said/Desktop/DevTecPW/build/CMakeFiles/rebuild_cache.dir
+/home/said/Desktop/DevTecPW/build/CMakeFiles/test.dir
+/home/said/Desktop/DevTecPW/build/CMakeFiles/edit_cache.dir
+/home/said/Desktop/DevTecPW/build/CMakeFiles/main.dir
+/home/said/Desktop/DevTecPW/build/CMakeFiles/testing.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stringLib.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/said/Desktop/DevTecPW/src/main.c
+stdlib.h
+-
+stringLib.h
+/home/said/Desktop/DevTecPW/src/stringLib.h
+
+/home/said/Desktop/DevTecPW/src/stringLib.c
+stringLib.h
+/home/said/Desktop/DevTecPW/src/stringLib.h
+

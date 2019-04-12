@@ -1,0 +1,25 @@
+Start testing: Apr 12 09:52 +04
+----------------------------------------------------------
+1/1 Testing: Test1
+1/1 Test: Test1
+Command: "/home/said/Desktop/DevTecPW/build/main"
+Directory: /home/said/Desktop/DevTecPW/build
+"Test1" start time: Apr 12 09:52 +04
+Output:
+----------------------------------------------------------
+Enter 1st word:
+Enter second word:
+Not same
+Length of string: 6
+Length of string: 16
+asdasd is not a palindrome
+ana is a palindrome.
+<end of output>
+Test time =   4.62 sec
+----------------------------------------------------------
+Test Passed.
+"Test1" end time: Apr 12 09:52 +04
+"Test1" time elapsed: 00:00:04
+----------------------------------------------------------
+
+End testing: Apr 12 09:52 +04
